@@ -1,0 +1,10 @@
+{
+    "fruits": [
+      {"id": 1, "left": "h2 + p", "right": "Sélecteurs adjacents"},
+      {"id": 2, "left": "h1, h2, h3", "right": "Sélecteurs multiples"},
+      {"id": 3, "left": "div p", "right": "Sélecteurs descendants"},
+      {"id": 4, "left": "ul > li", "right": "Sélecteurs d'enfant direct"},
+      {"id": 5, "left": "*", "right": "Sélecteur universel"},
+      {"id": 6, "left": "h2 ~ p", "right": "Sélecteurs frères/soeurs"}
+    ]
+  }
