@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', function() {
     var canvasContainer = document.getElementById("canvasContainer");
     var maxCanvasContainerHeight = 1000;
     var ctx = canvas.getContext("2d");
-    canvas.width =800;
+    canvas.width = 600;
     canvas.height = 600;
 
     

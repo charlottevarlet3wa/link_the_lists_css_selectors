@@ -55,7 +55,7 @@ body, html {
 
 #canvasContainer {
     /* background-color: black; */
-    width: 800px;
+    width: 600px;
     height: 600px; 
     overflow-y: auto; /* Makes the container scrollable */
     overflow-x: hidden;
